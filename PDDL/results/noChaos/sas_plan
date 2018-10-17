@@ -1,0 +1,6 @@
+(takemetro person kista vskogen)
+(takemetro person vskogen tc)
+(takemetro person tc ljholmen)
+(takemetro person ljholmen tc)
+(takemetro person tc kungstrad)
+; cost = 40 (general cost)
